@@ -14,7 +14,7 @@
   ## Installation 
   run npm start- view and select from various options
   ## Usage 
-  (Truthfully I couldn't get it to let you choose which categories to look out. wouldn't let me scroll.)
+ walkthrough- https://www.youtube.com/watch?v=bbd_GHVoJgE
   ## License 
   This project is license under Open
   ## Contributing 
